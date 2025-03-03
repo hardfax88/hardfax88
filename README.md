@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hardfax88
+- 👋 Hi, I’m hardfax
 - 👀 I’m interested in nearly everything
 - 🌱 I’m currently learning Python
 
